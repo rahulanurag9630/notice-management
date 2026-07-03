@@ -1,0 +1,92 @@
+[
+  {
+    "loan_no": "LN001",
+    "borrower_name": "Amit Sharma",
+    "outstanding_amount": "45,000.00",
+    "due_date": "2026-07-15",
+    "address": "Flat 402, Sunshine Apartments, Sector 15, Rohini, New Delhi - 110085",
+    "email": "amit.sharma@example.com",
+    "phone": "+91 98765 43210"
+  },
+  {
+    "loan_no": "LN002",
+    "borrower_name": "Priya Patel",
+    "outstanding_amount": "1,25,500.00",
+    "due_date": "2026-07-18",
+    "address": "12, Shanti Kunj, Near Railway Station, Anand, Gujarat - 388001",
+    "email": "priya.patel@example.com",
+    "phone": "+91 91234 56789"
+  },
+  {
+    "loan_no": "LN003",
+    "borrower_name": "Rohan Das",
+    "outstanding_amount": "82,400.00",
+    "due_date": "2026-07-20",
+    "address": "House 54B, Lake View Road, Salt Lake Sector 3, Kolkata, West Bengal - 700091",
+    "email": "rohan.das@example.com",
+    "phone": "+91 88888 77777"
+  },
+  {
+    "loan_no": "LN004",
+    "borrower_name": "Sneha Reddy",
+    "outstanding_amount": "3,10,000.00",
+    "due_date": "2026-07-12",
+    "address": "Plot 89, Jubilee Hills Road No 10, Hyderabad, Telangana - 500033",
+    "email": "sneha.reddy@example.com",
+    "phone": "+91 99000 11223"
+  },
+  {
+    "loan_no": "LN005",
+    "borrower_name": "Vikram Singh",
+    "outstanding_amount": "65,250.00",
+    "due_date": "2026-07-22",
+    "address": "C-110, Mansarovar Colony, Jaipur, Rajasthan - 302020",
+    "email": "vikram.singh@example.com",
+    "phone": "+91 77665 54433"
+  },
+  {
+    "loan_no": "LN006",
+    "borrower_name": "Anjali Nair",
+    "outstanding_amount": "15,800.00",
+    "due_date": "2026-07-10",
+    "address": "Nandanam, TC 24/182, Kowdiar, Trivandrum, Kerala - 695003",
+    "email": "anjali.nair@example.com",
+    "phone": "+91 94470 12345"
+  },
+  {
+    "loan_no": "LN007",
+    "borrower_name": "Deepak Verma",
+    "outstanding_amount": "2,20,000.00",
+    "due_date": "2026-07-25",
+    "address": "56, Civil Lines, Near High Court, Prayagraj, Uttar Pradesh - 211001",
+    "email": "deepak.verma@example.com",
+    "phone": "+91 81234 56780"
+  },
+  {
+    "loan_no": "LN008",
+    "borrower_name": "Meera Joshi",
+    "outstanding_amount": "95,000.00",
+    "due_date": "2026-07-17",
+    "address": "A-15, Neelkanth Heights, Senapati Bapat Road, Pune, Maharashtra - 411016",
+    "email": "meera.joshi@example.com",
+    "phone": "+91 90110 22334"
+  },
+  {
+    "loan_no": "LN009",
+    "borrower_name": "Sandeep Rao",
+    "outstanding_amount": "1,05,000.00",
+    "due_date": "2026-07-30",
+    "address": "No 45, 2nd Main, Indiranagar 1st Stage, Bangalore, Karnataka - 560038",
+    "email": "sandeep.rao@example.com",
+    "phone": "+91 98450 98450"
+  },
+  {
+    "loan_no": "LN010",
+    "borrower_name": "Karan Malhotra",
+    "outstanding_amount": "50,000.00",
+    "due_date": "2026-07-14",
+    "address": "Flat 12B, Emerald Towers, Golf Links, Gurugram, Haryana - 122002",
+    "email": "karan.malhotra@example.com",
+    "phone": "+91 99999 88888"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "tpl_1",
+    "name": "Intimation Letter",
+    "body": "Date: 2026-07-03\n\nTo,\n{{borrower_name}}\nAddress: {{address}}\n\nSubject: Intimation of Loan Outstanding Amount for Loan No: {{loan_no}}\n\nDear {{borrower_name}},\n\nThis is to intimate you that your loan account {{loan_no}} has an outstanding amount of INR {{outstanding_amount}} which is due on {{due_date}}.\n\nPlease ensure that the payment is cleared by the due date to avoid any late payment charges.\n\nIf you have already paid this amount, please ignore this notice.\n\nSincerely,\nNotice Management Department"
+  },
+  {
+    "id": "tpl_2",
+    "name": "Demand Notice",
+    "body": "Date: 2026-07-03\n\nTo,\n{{borrower_name}}\nAddress: {{address}}\n\nSubject: DEMAND NOTICE - IMMEDIATE PAYMENT REQUIRED FOR LOAN NO: {{loan_no}}\n\nDear {{borrower_name}},\n\nDespite previous intimations, your loan account {{loan_no}} has an overdue outstanding amount of INR {{outstanding_amount}} which was due on {{due_date}}.\n\nYou are hereby requested to clear this outstanding amount of INR {{outstanding_amount}} immediately. Failure to do so within 7 days from the receipt of this notice will compel us to initiate legal proceedings under applicable laws.\n\nPlease contact our collection team immediately.\n\nSincerely,\nLegal and Collections Division"
+  }
+]
