@@ -8,5 +8,10 @@
     "id": "tpl_2",
     "name": "Demand Notice",
     "body": "Date: 2026-07-03\n\nTo,\n{{borrower_name}}\nAddress: {{address}}\n\nSubject: DEMAND NOTICE - IMMEDIATE PAYMENT REQUIRED FOR LOAN NO: {{loan_no}}\n\nDear {{borrower_name}},\n\nDespite previous intimations, your loan account {{loan_no}} has an overdue outstanding amount of INR {{outstanding_amount}} which was due on {{due_date}}.\n\nYou are hereby requested to clear this outstanding amount of INR {{outstanding_amount}} immediately. Failure to do so within 7 days from the receipt of this notice will compel us to initiate legal proceedings under applicable laws.\n\nPlease contact our collection team immediately.\n\nSincerely,\nLegal and Collections Division"
+  },
+  {
+    "id": "tpl_1783247994747",
+    "name": "Test Letter",
+    "body": "Date : 05/07/2026\n\nTo,\n{{borrower_name}}\nAddress: {{address}}\n\nSubject: This is test letter\n\nDear {{borrower_name}},\nThis is test letter no need to worry about it this is letter is only for this test purpose.\n\nSincerely\nFrom nowhere"
   }
 ]
